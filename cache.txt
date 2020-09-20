@@ -1,1 +1,1 @@
-sample text
+Updated the script for gitcommit.

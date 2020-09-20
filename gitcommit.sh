@@ -1,5 +1,7 @@
 #!/bin/bash
-echo "press 1 to take commit msg from cache and 2 for different msg :"
+echo "The commit message stored in cache is :"
+cat cache.txt
+printf "\n Press \n 1 to take commit msg from cache \n 2 for different msg : "
 read choice
 if [ $choice == 1 ]
 then
