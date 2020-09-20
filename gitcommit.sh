@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "press 1 for same msg and 2 for different msg :"
+echo "press 1 to take commit msg from cache and 2 for different msg :"
 read choice
 if [ $choice == 1 ]
 then
