@@ -7,7 +7,8 @@ Learning from [w3schools](https://www.w3schools.com/html/html_intro.asp)
 ## What's NEW ?
 
 ### Trying to automate as much as i can, using shell scripting.
-All the lazy fellas, checkout my script file(gitcommit.sh) for adding and commiting each change in just one command.
+#### All the lazy fellas, 
+Checkout my script file(gitcommit.sh) for adding and commiting each change in just one command.
 
 Just run the script by 
 ```bash
