@@ -1,1 +1,1 @@
-basic attributes of HTML such as style,href,img,lang,title etc
+Different types of headings and customization.
