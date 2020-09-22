@@ -1,1 +1,1 @@
-Different types of headings and customization.
+All about paragraphs tags such as hr, br, p, pre.
