@@ -1,1 +1,1 @@
-All about paragraphs tags such as hr, br, p, pre.
+styles in HTML
